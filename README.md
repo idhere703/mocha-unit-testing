@@ -1,2 +1,5 @@
 # mocha-unit-testing
-Testing out Mocha. 
+Testing out Mocha.
+
+# Running the test:
+`npm test`
